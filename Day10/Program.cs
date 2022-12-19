@@ -28,7 +28,7 @@ int mainRegister = 1;
 int addRegister = 0;
 State currentState = State.Wait;
 
-int cycles = 0;
+int cycles = 1;
 
 int part1Total = 0;
 
